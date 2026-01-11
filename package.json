@@ -1,0 +1,22 @@
+{
+  "name": "numero-narcisista",
+  "version": "1.0.0",
+  "description": "Esta biblioteca em **Node.js** verifica se um número é **narcisista** (também conhecido como _Armstrong number_).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numero",
+    "narcisista",
+    "armstrong",
+    "matemática",
+    "biblioteca"
+  ],
+  "author": "José Luiz Vitorino Felisbino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelisbinoJose/numero-narcisista/issues"
+  },
+  "homepage": "https://github.com/FelisbinoJose/numero-narcisista#readme"
+}
