@@ -12,4 +12,4 @@ function numeroNarcisista(value) {
     return soma === BigInt(value);
 }
 
-module.exports = { numeroNarcisista }
+module.exports = numeroNarcisista 
